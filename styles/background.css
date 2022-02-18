@@ -1,9 +1,12 @@
 #header-background {
     background: black;
+    text-align: center;
 }
 #main-background {
     background: white;
+    text-align: center;
 }
 #footer-background {
     background: gray;
+    text-align: center;
 }
